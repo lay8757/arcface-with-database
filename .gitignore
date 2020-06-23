@@ -1,0 +1,6 @@
+*.pdf
+*.pro.user
+*.zip
+/image/
+*.sw?
+*.autosave
